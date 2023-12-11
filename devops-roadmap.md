@@ -274,8 +274,11 @@ SOPS:
 Infrastructure Monitoring:
 
 Datadog:
-Grafana:
-Prometheus:
+
+Grafana: https://jhooq.com/prometheous-k8s-aws-setup/
+
+Prometheus: https://jhooq.com/prometheous-k8s-aws-setup/
+
 Zabbix:
 
 -----------------------------------------------------------------
@@ -352,7 +355,10 @@ MicroServices:
 
 -----------------------------------------------------------------
 
-APIs:
+How API Works:
+
+
+Different types of APIs:
 
 
 -----------------------------------------------------------------
