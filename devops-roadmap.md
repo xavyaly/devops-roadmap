@@ -133,25 +133,17 @@ Setup/Configurations:
 Reverse Proxy:
 Forward Proxy:
 Firewall:
-Nginx:
-Tomcat:
-Apache:
-IIS:
 Caching Server:
 
 -----------------------------------------------------------------
 
-CI Tools:
+Web Servers:
 
-Jenkins:
-
-Official Website: https://www.jenkins.io/doc/book/getting-started/
-
-Other Resources: https://github.com/schoolofdevops/learn-jenkins/tree/master
-
-Jenkins Pipeline: https://devopscube.com/jenkins-pipeline-as-code/
-
-Topics:
+Nginx:
+Tomcat:
+Apache:
+IIS:
+Coddy
 
 -----------------------------------------------------------------
 
@@ -163,13 +155,28 @@ Docker:
 
 LXC:
 
+
+rkt:
+
+Podman:
+
+ZeroVM:
+
 -----------------------------------------------------------------
 
+Cluster Management:
+
 Kubernetes:
+    Official Website: https://kubernetes.io/docs/home/
+    Other Resources: 
 
-Official Website: https://kubernetes.io/docs/home/
+Docker Swarm:
 
-Other Resources: 
+Nomad:
+
+Mesos:
+
+Mesosphere:
 
 -----------------------------------------------------------------
 
@@ -193,14 +200,21 @@ IBM:
 
 Oracle:
 
+CloudFoundry:
+
+Rackspace:
+
+Heroku:
+
 -----------------------------------------------------------------
 
 Networking, Security and Protocols:
-    FTP/SFTP
-    HTTP/HTTPS
-    SSL/TLS
-    DNS
-    SSH
+
+FTP/SFTP
+HTTP/HTTPS
+SSL/TLS
+DNS
+SSH
 
 -----------------------------------------------------------------
 
@@ -221,14 +235,11 @@ AWS SDK:
 Cloud Formation:
 Pulumi:
 
------------------------------------------------------------------
-
-Infrastructure Provisioning:
-
 Terraform:
     Official Website: https://developer.hashicorp.com/terraform/tutorials?product_intent=terraform
+    Topics:
 
-Topics:
+SaltStack:
 
 
 -----------------------------------------------------------------
@@ -253,12 +264,20 @@ CI CD Tools:
 GitLab CI:
 GitHub Actions:
 Circle CI:
+
 Jenkins:
+    Official Website: https://www.jenkins.io/doc/book/getting-started/
+    Other Resources: https://github.com/schoolofdevops/learn-jenkins/tree/master
+    Jenkins Pipeline: https://devopscube.com/jenkins-pipeline-as-code/
+
+Topics:
+
 Travis CI:
 Drone:
 TeamCity:
 Azure DevOps Services:
 GitOps:
+Bamboo:
 
 -----------------------------------------------------------------
 
